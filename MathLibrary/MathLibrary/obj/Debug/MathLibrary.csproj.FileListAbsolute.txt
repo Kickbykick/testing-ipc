@@ -1,0 +1,8 @@
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csprojAssemblyReference.cache
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+F:\One Drive\OneDrive\Vincent\Programming\C Sharp\Projects\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb
+C:\Users\kibati\Downloads\Tutorials-master\Tutorials-master\Working with DLLs in Node.js\How to call Managed C# DLLs from Node.js\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+C:\Users\kibati\Downloads\Tutorials-master\Tutorials-master\Working with DLLs in Node.js\How to call Managed C# DLLs from Node.js\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CS/BrszKv+TdOtmoQ9G6scOLoKKNxnjQfr/24dtVrJ5NXHCFdGj4BuCtbnW8Ad3HgASW3PmYhmgIOd3nKL7dAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kibati\\Downloads\\Tutorials-master\\Tutorials-master\\Working with DLLs in Node.js\\How to call Managed C# DLLs from Node.js\\MathLibrary\\MathLibrary\\MathLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kibati\\.nuget\\packages\\dllexport\\1.7.4\\dllexport.1.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
